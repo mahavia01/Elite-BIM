@@ -8,11 +8,11 @@ Download and install the pyRevit plugin from Pyrevit Notion bord:
 
 Download.pyRevit
 
-# Add the Elit BIM Extension
+# Add the Elite BIM Extension
 
-Download the source folder ElitBIM.extension.
+Download the source folder EliteBIM.extension.
 
 Paste it into the following directory:
 C:\Program Files\pyRevit-Master\extensions
 
-Once added, restart Revit and the Elit BIM tab will appear with your custom tools.
+Once added, restart Revit and the Elite BIM tab will appear with your custom tools.
