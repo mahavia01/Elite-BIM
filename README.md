@@ -11,8 +11,6 @@ Download.pyRevit
 # Add the Elite BIM Extension
 
 Download the source folder EliteBIM.extension.
+Run Elite-BIM Installer (Make sure to Read "README" First)
 
-Paste it into the following directory:
-C:\Program Files\pyRevit-Master\extensions
-
-Once added, restart Revit and the Elite BIM tab will appear with your custom tools.
+Once Installed, restart Revit and the Elite BIM tab will appear with your custom tools.
